@@ -1,3 +1,7 @@
+# most code commented out will is either a function call or will work and pass 
+# tests, however, it is not the most concise, and the uncommented code is the 
+# more Python or 'Pythonista' way of thinking
+
 spicy_foods = [
     {
         "name": "Green Curry",
@@ -16,6 +20,7 @@ spicy_foods = [
     },
 ]
 
+# spicy_food dict is only for the last function
 spicy_food = {
         "name": "Griot",
         "cuisine": "Haitian",
